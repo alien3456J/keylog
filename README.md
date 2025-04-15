@@ -3,4 +3,4 @@ This is a keylogger project built using Python and C++. It is designed to captur
 
 Note: This tool should never be used for malicious purposes. It is your responsibility to ensure that you have proper authorization before using any kind of keylogging software.
 
-Captured data will be saved to a log file.
+Captured data will be saved to a log file!
